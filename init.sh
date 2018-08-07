@@ -13,4 +13,6 @@ sed -i -e "s/\[TITLE\]/$name/g" conf.lua
 git submodule init
 rm -r .git
 git init
+git submodule init
+git submodule update --recursive
 rm init.sh
