@@ -1,0 +1,51 @@
+[submodule "thirdparty/lume"]
+	path = thirdparty/lume
+	url = git@github.com:rxi/lume.git
+[submodule "thirdparty/lurker"]
+	path = thirdparty/lurker
+	url = git@github.com:maluramichael/lurker.git
+[submodule "thirdparty/classic"]
+	path = thirdparty/classic
+	url = git@github.com:rxi/classic.git
+[submodule "thirdparty/hump"]
+	path = thirdparty/hump
+	url = git@github.com:vrld/hump.git
+[submodule "thirdparty/lovebird"]
+	path = thirdparty/lovebird
+	url = git@github.com:rxi/lovebird.git
+[submodule "thirdparty/inspect"]
+	path = thirdparty/inspect
+	url = git@github.com:kikito/inspect.lua.git
+[submodule "thirdparty/shack"]
+	path = thirdparty/shack
+	url = git@github.com:Ulydev/shack.git
+[submodule "thirdparty/sti"]
+	path = thirdparty/sti
+	url = git@github.com:karai17/Simple-Tiled-Implementation.git
+[submodule "thirdparty/luafsm"]
+	path = thirdparty/luafsm
+	url = git@github.com:unindented/lua-fsm.git
+[submodule "thirdparty/flux"]
+	path = thirdparty/flux
+	url = git@github.com:rxi/flux.git
+[submodule "thirdparty/binser"]
+	path = thirdparty/binser
+	url = git@github.com:bakpakin/binser.git
+[submodule "thirdparty/anim8"]
+	path = thirdparty/anim8
+	url = git@github.com:kikito/anim8.git
+[submodule "thirdparty/peachy"]
+	path = thirdparty/peachy
+	url = git@github.com:josh-perry/peachy.git
+[submodule "thirdparty/moonshine"]
+	path = thirdparty/moonshine
+	url = git@github.com:vrld/moonshine.git
+[submodule "thirdparty/jumper"]
+	path = thirdparty/jumper
+	url = git@github.com:Yonaba/Jumper.git
+[submodule "thirdparty/cargo"]
+	path = thirdparty/cargo
+	url = git@github.com:bjornbytes/cargo.git
+[submodule "thirdparty/LOVEDEBUG"]
+	path = thirdparty/LOVEDEBUG
+	url = git@github.com:Ranguna/LOVEDEBUG.git
